@@ -2,10 +2,6 @@ import React from 'react';
 
 const SearchBox = (props) => {
 
-  // onChange() {
-
-  // }
-
   return (
     <div className="pa2">
       <input 
